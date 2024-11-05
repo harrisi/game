@@ -37,4 +37,5 @@ I'm not sure. if you consider an immutable model, how does everything provide
 
 is everything a state machine? is that useful?
 
-
+how do I define everything as immutable data? primarily in a way that makes
+  sense?
