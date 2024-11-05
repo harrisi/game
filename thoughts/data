@@ -1,0 +1,40 @@
+what are the data of a game?
+
+- scene
+- objects
+- entities
+- velocities
+- positions
+- colors
+- models
+- input state
+- tasks
+- async events
+- dialogue
+- screen dimensions
+- save data
+- sounds
+- animations
+- window
+- renderer
+
+what are common?
+
+- position in a durational task
+  - sounds
+  - animation
+  - tasks (quests)
+
+- position
+  - objects
+  - input
+    - some, mouse
+
+what are the core things?
+
+I'm not sure. if you consider an immutable model, how does everything provide
+  their current existenence and produce their next existence?
+
+is everything a state machine? is that useful?
+
+
